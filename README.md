@@ -6,7 +6,7 @@ This repository contains the Jupyter notebook for the workshop I did at pyladies
 Most Survey Data consists of categorical variables like gender or the level of education. In contrast to Stata or SPSS, with Python variable labels, values and value labels are not stored simultaneously in one file. The main focus is therefore on how to label categorical variables and their values with Pandas. Additionally, we will assign sampling weights and show different ways to visualize categorical variables and weighted data with Matplotlib.
 The data for this workshop is a poll from the 2016 presidential elections in the United States and provides an insight into the demographics and views of Trump and Clinton voters.
 
-• Outline:
+Outline:
 Reading STATA/ SPSS files and labels
 Handling of categorical variables
 Assigning labels to variables and its values
