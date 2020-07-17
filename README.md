@@ -7,10 +7,10 @@ Most Survey Data consists of categorical variables like gender or the level of e
 The data for this workshop is a poll from the 2016 presidential elections in the United States and provides an insight into the demographics and views of Trump and Clinton voters.
 
 Outline:
-Reading STATA/ SPSS files and labels
-Handling of categorical variables
-Assigning labels to variables and its values
-Visualizing categorical variables
-Visualizing/ reporting weighted data
+- Reading STATA/ SPSS files and labels
+- Handling of categorical variables
+- Assigning labels to variables and its values
+- Visualizing categorical variables
+- Visualizing/ reporting weighted data
 
 It is based on my project Trump vs. Clinton, but focusses more on the topic of Survey Data especially how to handle categorical data and ensure representativeness. At first I give a small intro and go through the notebook. There are two exercises in between to get an instight and better understanding of the data and one in the end.
