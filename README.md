@@ -1,5 +1,4 @@
-# pyladies_20200225
-Analysing Survey Data with Pandas and Matplotlib
+# Analysing Survey Data with Pandas and Matplotlib
 
 This repository contains the Jupyter notebook for the workshop I did at pyladies Hamburg in February 2020 (https://www.meetup.com/de-DE/PyLadies-Hamburg/events/268509028/).
 
