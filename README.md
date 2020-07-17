@@ -13,4 +13,4 @@ Outline:
 - Visualizing categorical variables
 - Visualizing/ reporting weighted data
 
-It is based on my project Trump vs. Clinton, but focusses more on the topic of Survey Data especially how to handle categorical data and ensure representativeness. At first I give a small intro and go through the notebook. There are two exercises in between to get an instight and better understanding of the data and one in the end.
+It is based on my project Trump vs. Clinton, but focusses more on the topic of Survey Data especially how to handle categorical data and ensure representativeness. At first I give a small intro and go through the notebook. There are two exercises in between to get an insight and better understanding of the data and one in the end.
